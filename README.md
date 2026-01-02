@@ -1,6 +1,6 @@
 # Data Warehouse – Modelo Dimensional com SQLite e Python
 
-## O que é um Data Warehouse (DW)
+## 🧩 O que é um Data Warehouse (DW)
 
 Um **Data Warehouse** é um repositório estruturado para análise de dados, voltado para apoio à decisão de negócio — diferente dos bancos transacionais usados no dia a dia operacional.
 
@@ -37,7 +37,7 @@ O objetivo é demonstrar, na prática, como:
 
 - - -
 
-## Modelagem Dimensional
+## 🗂️ Modelagem Dimensional
 
 ### Dimensões criadas
 
@@ -87,7 +87,7 @@ Resultado: uma base pronta para ferramentas de BI (Power BI, Metabase etc.).
 
 - - -
 
-## Como Executar
+## ▶️ Como Executar
 
 1. Instale as dependências:
 
