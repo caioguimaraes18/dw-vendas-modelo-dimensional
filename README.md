@@ -87,9 +87,6 @@ Resultado: uma base pronta para ferramentas de BI (Power BI, Metabase etc.).
 
 - - -
 
-<br>
-<br>
-
 ## Como Executar
 
 1. Instale as dependências:
